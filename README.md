@@ -64,9 +64,7 @@
                  onmouseout="this.style.transform='scale(1)'">
         </a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML">
-            <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" style="width: 50px; height: 50px; transition: transform 0.2s;" alt="HTML"
-                 onmouseover="this.style.transform='scale(1.2)'" 
-                 onmouseout="this.style.transform='scale(1)'">
+            <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" style="width: 50px; height: 50px; transition: transform 0.2s;" alt="HTML">
         </a>
     </div>
 </p>
