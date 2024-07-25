@@ -29,42 +29,42 @@
 <p align="center">
    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center; justify-content: center;">
         <a href="https://en.cppreference.com/w/c" target="_blank" title="C">
-            <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/c.svg" style="width: 50px; height: 50px; color: #A8B9CC; transition: transform 0.2s;" alt="C" 
+            <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" style="width: 50px; height: 50px; transition: transform 0.2s;" alt="C"
                  onmouseover="this.style.transform='scale(1.2)'" 
                  onmouseout="this.style.transform='scale(1)'">
         </a>
         <a href="https://en.cppreference.com/w/" target="_blank" title="C++">
-            <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cplusplus.svg" style="width: 50px; height: 50px; color: #00599C; transition: transform 0.2s;" alt="C++"
+            <img src="https://img.shields.io/badge/C%2B%2B-F34B7D?style=flat&logo=c%2B%2B&logoColor=white" style="width: 50px; height: 50px; transition: transform 0.2s;" alt="C++"
                  onmouseover="this.style.transform='scale(1.2)'" 
                  onmouseout="this.style.transform='scale(1)'">
         </a>
         <a href="https://www.java.com/" target="_blank" title="Java">
-            <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/java.svg" style="width: 50px; height: 50px; color: #007396; transition: transform 0.2s;" alt="Java"
+            <img src="https://img.shields.io/badge/Java-E34F26?style=flat&logo=java&logoColor=white" style="width: 50px; height: 50px; transition: transform 0.2s;" alt="Java"
                  onmouseover="this.style.transform='scale(1.2)'" 
                  onmouseout="this.style.transform='scale(1)'">
         </a>
         <a href="https://www.python.org/" target="_blank" title="Python">
-            <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" style="width: 50px; height: 50px; color: #3776AB; transition: transform 0.2s;" alt="Python"
+            <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" style="width: 50px; height: 50px; transition: transform 0.2s;" alt="Python"
                  onmouseover="this.style.transform='scale(1.2)'" 
                  onmouseout="this.style.transform='scale(1)'">
         </a>
         <a href="https://www.swi-prolog.org/" target="_blank" title="Prolog">
-            <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/prolog.svg" style="width: 50px; height: 50px; color: #336791; transition: transform 0.2s;" alt="Prolog"
+            <img src="https://img.shields.io/badge/Prolog-3B3B6D?style=flat&logo=prolog&logoColor=white" style="width: 50px; height: 50px; transition: transform 0.2s;" alt="Prolog"
                  onmouseover="this.style.transform='scale(1.2)'" 
                  onmouseout="this.style.transform='scale(1)'">
         </a>
         <a href="https://www.haskell.org/" target="_blank" title="Haskell">
-            <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/haskell.svg" style="width: 50px; height: 50px; color: #5D4F85; transition: transform 0.2s;" alt="Haskell"
+            <img src="https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=white" style="width: 50px; height: 50px; transition: transform 0.2s;" alt="Haskell"
                  onmouseover="this.style.transform='scale(1.2)'" 
                  onmouseout="this.style.transform='scale(1)'">
         </a>
         <a href="https://www.w3schools.com/sql/" target="_blank" title="SQL">
-            <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postgresql.svg" style="width: 50px; height: 50px; color: #336791; transition: transform 0.2s;" alt="SQL"
+            <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=sql&logoColor=white" style="width: 50px; height: 50px; transition: transform 0.2s;" alt="SQL"
                  onmouseover="this.style.transform='scale(1.2)'" 
                  onmouseout="this.style.transform='scale(1)'">
         </a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML">
-            <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" style="width: 50px; height: 50px; color: #E34F26; transition: transform 0.2s;" alt="HTML"
+            <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" style="width: 50px; height: 50px; transition: transform 0.2s;" alt="HTML"
                  onmouseover="this.style.transform='scale(1.2)'" 
                  onmouseout="this.style.transform='scale(1)'">
         </a>
