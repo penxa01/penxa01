@@ -27,8 +27,7 @@
 
 <h3 align="center">Languages</h3>
 <p align="center">
-  <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center; justify-content: center;">
-        <a href="https://en.cppreference.com/w/c" target="_blank" title="C">
+   <a href="https://en.cppreference.com/w/c" target="_blank" title="C">
             <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/c.svg" style="width: 50px; height: 50px; transition: transform 0.2s;" alt="C" 
                  onmouseover="this.style.transform='scale(1.2)'" 
                  onmouseout="this.style.transform='scale(1)'">
@@ -68,9 +67,6 @@
                  onmouseover="this.style.transform='scale(1.2)'" 
                  onmouseout="this.style.transform='scale(1)'">
         </a>
-    </div>
-
-  
 </p>
 
 
