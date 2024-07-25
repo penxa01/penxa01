@@ -27,7 +27,7 @@
 <p align="center">
    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center; justify-content: center;">
         <a href="https://en.cppreference.com/w/c" target="_blank" title="C">
-            <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" style="width: 50px; height: 50px; transition: transform 0.2s;" alt="C"
+            <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" style="width: 70px; height: 50px; transition: transform 0.2s;" alt="C"
                  onmouseover="this.style.transform='scale(1.2)'" 
                  onmouseout="this.style.transform='scale(1)'">
         </a>
@@ -108,9 +108,6 @@
 <h3 align="center">Reach me</h3>
 
 <p align="center">
-  <a  href="https://t.me/example" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="example"/>
-  </a>
   <a href="mailto:example@outlook.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="example"/>
   </a>
@@ -134,5 +131,3 @@
 
 ------
 Credit: [Penxa01](https://github.com/penxa01)
-
-Last Edited on: 09/09/2021
