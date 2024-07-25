@@ -6,13 +6,11 @@
 <h3 font-size="20" align="center">Im Student from the Universidad Nacional de San Juan.</h3>
 
 
-- 🌱 I’m currently learning **To be Better Programmer** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+- 🌱 I’m currently learning **To be Better Programmer** 
 
 - ⚡ Fun fact **Coding and gaming is my Passion.**
   
 - :neckbeard: I'm learning to be a web programmer
-
-
 
 
 ---
@@ -64,7 +62,9 @@
                  onmouseout="this.style.transform='scale(1)'">
         </a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML">
-            <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" style="width: 50px; height: 50px; transition: transform 0.2s;" alt="HTML">
+            <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" style="width: 50px; height: 50px; transition: transform 0.2s;" alt="HTML"     
+                onmouseover="this.style.transform='scale(1.2)'" 
+                 onmouseout="this.style.transform='scale(1.2)'">
         </a>
     </div>
 </p>
