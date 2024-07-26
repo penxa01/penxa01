@@ -71,7 +71,7 @@
                  onmouseout="this.style.transform='scale(1)'">
         </a>
         <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL">
-            <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" style="width: 130px; height: 50px; transition: transform 0.2s;" alt="PostgreSQL"
+            <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" style="width: 150px; height: 50px; transition: transform 0.2s;" alt="PostgreSQL"
                  onmouseover="this.style.transform='scale(1.2)'" 
                  onmouseout="this.style.transform='scale(1)'">
         </a>
@@ -80,9 +80,11 @@
 
 <h3 align="center">Preferred IDEs:</h3>
 <p align="center"> 
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
-  </a>
+    <a href="https://code.visualstudio.com/" target="_blank" title="Visual Studio Code">
+            <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" style="width: 90px; height: 50px; transition: transform 0.2s;" alt="Visual Studio Code"
+                 onmouseover="this.style.transform='scale(1.2)'" 
+                 onmouseout="this.style.transform='scale(1)'">
+        </a>
 </p>
 
 ----
