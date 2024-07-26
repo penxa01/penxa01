@@ -57,7 +57,7 @@
                  onmouseout="this.style.transform='scale(1)'">
         </a>
         <a href="https://www.w3schools.com/sql/" target="_blank" title="SQL">
-            <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=sql&logoColor=white" style="width: 100px; height: 50px; transition: transform 0.2s;" alt="SQL"
+            <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=sql&logoColor=white" style="width: 80px; height: 50px; transition: transform 0.2s;" alt="SQL"
                  onmouseover="this.style.transform='scale(1.2)'" 
                  onmouseout="this.style.transform='scale(1)'">
         </a>
