@@ -94,17 +94,17 @@
 <div style="margin-top:10px" align="center">
   <div>
     <a href="https://www.instagram.com/_penxa01/" target="_blank" title="Instagram">
-            <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" style="width: 50px; height: 50px; transition: transform 0.2s;" alt="Instagram"
+            <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" style="width: 100px; height: 50px; transition: transform 0.2s;" alt="Instagram"
                  onmouseover="this.style.transform='scale(1.2)'" 
                  onmouseout="this.style.transform='scale(1)'">
         </a>
         <a href="https://x.com/Penxa01" target="_blank" title="Twitter">
-            <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" style="width: 50px; height: 50px; transition: transform 0.2s;" alt="Twitter"
+            <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" style="width: 100px; height: 50px; transition: transform 0.2s;" alt="Twitter"
                  onmouseover="this.style.transform='scale(1.2)'" 
                  onmouseout="this.style.transform='scale(1)'">
         </a>
         <a href="https://www.linkedin.com/in/juan-pe%C3%B1a-b543771ba/" target="_blank" title="LinkedIn">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" style="width: 50px; height: 50px; transition: transform 0.2s;" alt="LinkedIn"
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" style="width: 100px; height: 50px; transition: transform 0.2s;" alt="LinkedIn"
                  onmouseover="this.style.transform='scale(1.2)'" 
                  onmouseout="this.style.transform='scale(1)'">
         </a>
@@ -114,9 +114,11 @@
 <h3 align="center">Reach me</h3>
 
 <p align="center">
-  <a href="mailto:example@outlook.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
-    <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="example"/>
-  </a>
+    <a href="mailto:pepino199582@gmail.com" title="Gmail">
+            <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" style="width: 80px; height: 50px; transition: transform 0.2s;" alt="Gmail"
+                 onmouseover="this.style.transform='scale(1.2)'" 
+                 onmouseout="this.style.transform='scale(1)'">
+        </a>
 </p>
 
 ----
