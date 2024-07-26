@@ -24,62 +24,64 @@
 
 
 <h3 align="center">Languages</h3>
-<p align="center">
-   <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center; justify-content: center;">
-        <a href="https://en.cppreference.com/w/c" target="_blank" title="C">
-            <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" style="width: 55px; height: 50px; transition: transform 0.2s;" alt="C"
-                 onmouseover="this.style.transform='scale(1.2)'" 
-                 onmouseout="this.style.transform='scale(1)'">
-        </a>
-        <a href="https://en.cppreference.com/w/" target="_blank" title="C++">
-            <img src="https://img.shields.io/badge/C%2B%2B-F34B7D?style=flat&logo=c%2B%2B&logoColor=white" style="width: 80px; height: 50px; transition: transform 0.2s;" alt="C++"
-                 onmouseover="this.style.transform='scale(1.2)'" 
-                 onmouseout="this.style.transform='scale(1)'">
-        </a>
-        <a href="https://www.java.com/" target="_blank" title="Java">
-            <img src="https://img.shields.io/badge/Java-E34F26?style=flat&logo=java&logoColor=white" style="width: 70px; height: 50px; transition: transform 0.2s;" alt="Java"
-                 onmouseover="this.style.transform='scale(1.2)'" 
-                 onmouseout="this.style.transform='scale(1)'">
-        </a>
-        <a href="https://www.python.org/" target="_blank" title="Python">
-            <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" style="width: 110px; height: 50px; transition: transform 0.2s;" alt="Python"
-                 onmouseover="this.style.transform='scale(1.2)'" 
-                 onmouseout="this.style.transform='scale(1)'">
-        </a>
-        <a href="https://www.swi-prolog.org/" target="_blank" title="Prolog">
-            <img src="https://img.shields.io/badge/Prolog-3B3B6D?style=flat&logo=prolog&logoColor=white" style="width: 100px; height: 50px; transition: transform 0.2s;" alt="Prolog"
-                 onmouseover="this.style.transform='scale(1.2)'" 
-                 onmouseout="this.style.transform='scale(1)'">
-        </a>
-        <a href="https://www.haskell.org/" target="_blank" title="Haskell">
-            <img src="https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=white" style="width: 110px; height: 50px; transition: transform 0.2s;" alt="Haskell"
-                 onmouseover="this.style.transform='scale(1.2)'" 
-                 onmouseout="this.style.transform='scale(1)'">
-        </a>
-        <a href="https://www.w3schools.com/sql/" target="_blank" title="SQL">
-            <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=sql&logoColor=white" style="width: 80px; height: 50px; transition: transform 0.2s;" alt="SQL"
-                 onmouseover="this.style.transform='scale(1.2)'" 
-                 onmouseout="this.style.transform='scale(1)'">
-        </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML">
-            <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" style="width: 100px; height: 50px; transition: transform 0.2s;" alt="HTML"     
-                onmouseover="this.style.transform='scale(1.2)'" 
-                 onmouseout="this.style.transform='scale(1.2)'">
-        </a>
-    </div>
-</p>
+  <p align="center">
+     <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center; justify-content: center;">
+          <a href="https://en.cppreference.com/w/c" target="_blank" title="C">
+              <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" style="width: 55px; height: 50px; transition: transform 0.2s;" alt="C"
+                   onmouseover="this.style.transform='scale(1.2)'" 
+                   onmouseout="this.style.transform='scale(1)'">
+          </a>
+          <a href="https://en.cppreference.com/w/" target="_blank" title="C++">
+              <img src="https://img.shields.io/badge/C%2B%2B-F34B7D?style=flat&logo=c%2B%2B&logoColor=white" style="width: 80px; height: 50px; transition: transform 0.2s;" alt="C++"
+                   onmouseover="this.style.transform='scale(1.2)'" 
+                   onmouseout="this.style.transform='scale(1)'">
+          </a>
+          <a href="https://www.java.com/" target="_blank" title="Java">
+              <img src="https://img.shields.io/badge/Java-E34F26?style=flat&logo=java&logoColor=white" style="width: 70px; height: 50px; transition: transform 0.2s;" alt="Java"
+                   onmouseover="this.style.transform='scale(1.2)'" 
+                   onmouseout="this.style.transform='scale(1)'">
+          </a>
+          <a href="https://www.python.org/" target="_blank" title="Python">
+              <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" style="width: 110px; height: 50px; transition: transform 0.2s;" alt="Python"
+                   onmouseover="this.style.transform='scale(1.2)'" 
+                   onmouseout="this.style.transform='scale(1)'">
+          </a>
+          <a href="https://www.swi-prolog.org/" target="_blank" title="Prolog">
+              <img src="https://img.shields.io/badge/Prolog-3B3B6D?style=flat&logo=prolog&logoColor=white" style="width: 100px; height: 50px; transition: transform 0.2s;" alt="Prolog"
+                   onmouseover="this.style.transform='scale(1.2)'" 
+                   onmouseout="this.style.transform='scale(1)'">
+          </a>
+          <a href="https://www.haskell.org/" target="_blank" title="Haskell">
+              <img src="https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=white" style="width: 110px; height: 50px; transition: transform 0.2s;" alt="Haskell"
+                   onmouseover="this.style.transform='scale(1.2)'" 
+                   onmouseout="this.style.transform='scale(1)'">
+          </a>
+          <a href="https://www.w3schools.com/sql/" target="_blank" title="SQL">
+              <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=sql&logoColor=white" style="width: 80px; height: 50px; transition: transform 0.2s;" alt="SQL"
+                   onmouseover="this.style.transform='scale(1.2)'" 
+                   onmouseout="this.style.transform='scale(1)'">
+          </a>
+          <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML">
+              <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" style="width: 100px; height: 50px; transition: transform 0.2s;" alt="HTML"     
+                  onmouseover="this.style.transform='scale(1.2)'" 
+                   onmouseout="this.style.transform='scale(1.2)'">
+          </a>
+      </div>
+  </p>
 
 
 <h3 align="center">Database</h3>
 <p align="center">
-  <a href="https://www.postgresql.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"
-      alt="postgresql"/> 
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"
-      alt="sqlite"/> 
-  </a>
+      <a href="https://www.w3schools.com/sql/" target="_blank" title="SQL">
+            <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=database&logoColor=white" style="width: 80px; height: 50px; transition: transform 0.2s;" alt="SQL"
+                 onmouseover="this.style.transform='scale(1.2)'" 
+                 onmouseout="this.style.transform='scale(1)'">
+        </a>
+        <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL">
+            <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" style="width: 100px; height: 50px; transition: transform 0.2s;" alt="PostgreSQL"
+                 onmouseover="this.style.transform='scale(1.2)'" 
+                 onmouseout="this.style.transform='scale(1)'">
+        </a>
 </p>
 
 
