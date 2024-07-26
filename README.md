@@ -71,7 +71,7 @@
                  onmouseout="this.style.transform='scale(1)'">
         </a>
         <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL">
-            <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" style="width: 100px; height: 50px; transition: transform 0.2s;" alt="PostgreSQL"
+            <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" style="width: 130px; height: 50px; transition: transform 0.2s;" alt="PostgreSQL"
                  onmouseover="this.style.transform='scale(1.2)'" 
                  onmouseout="this.style.transform='scale(1)'">
         </a>
