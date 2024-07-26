@@ -41,12 +41,12 @@
                onmouseout="this.style.transform='scale(1)'">
       </a>
       <a href="https://www.python.org/" target="_blank" title="Python">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" style="width: 110px; height: 50px; transition: transform 0.2s;" alt="Python"
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" style="width: 120px; height: 50px; transition: transform 0.2s;" alt="Python"
                onmouseover="this.style.transform='scale(1.2)'" 
                onmouseout="this.style.transform='scale(1)'">
       </a>
       <a href="https://www.swi-prolog.org/" target="_blank" title="Prolog">
-          <img src="https://img.shields.io/badge/Prolog-3B3B6D?style=flat&logo=prolog&logoColor=white" style="width: 100px; height: 50px; transition: transform 0.2s;" alt="Prolog"
+          <img src="https://img.shields.io/badge/Prolog-3B3B6D?style=flat&logo=prolog&logoColor=white" style="width: 90px; height: 50px; transition: transform 0.2s;" alt="Prolog"
                onmouseover="this.style.transform='scale(1.2)'" 
                onmouseout="this.style.transform='scale(1)'">
       </a>
