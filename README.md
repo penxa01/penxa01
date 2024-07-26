@@ -32,7 +32,7 @@
                  onmouseout="this.style.transform='scale(1)'">
         </a>
         <a href="https://en.cppreference.com/w/" target="_blank" title="C++">
-            <img src="https://img.shields.io/badge/C%2B%2B-F34B7D?style=flat&logo=c%2B%2B&logoColor=white" style="width: 70px; height: 50px; transition: transform 0.2s;" alt="C++"
+            <img src="https://img.shields.io/badge/C%2B%2B-F34B7D?style=flat&logo=c%2B%2B&logoColor=white" style="width: 80px; height: 50px; transition: transform 0.2s;" alt="C++"
                  onmouseover="this.style.transform='scale(1.2)'" 
                  onmouseout="this.style.transform='scale(1)'">
         </a>
