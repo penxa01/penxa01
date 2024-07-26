@@ -42,7 +42,7 @@
                  onmouseout="this.style.transform='scale(1)'">
         </a>
         <a href="https://www.python.org/" target="_blank" title="Python">
-            <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" style="width: 100px; height: 50px; transition: transform 0.2s;" alt="Python"
+            <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" style="width: 110px; height: 50px; transition: transform 0.2s;" alt="Python"
                  onmouseover="this.style.transform='scale(1.2)'" 
                  onmouseout="this.style.transform='scale(1)'">
         </a>
@@ -52,7 +52,7 @@
                  onmouseout="this.style.transform='scale(1)'">
         </a>
         <a href="https://www.haskell.org/" target="_blank" title="Haskell">
-            <img src="https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=white" style="width: 100px; height: 50px; transition: transform 0.2s;" alt="Haskell"
+            <img src="https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=white" style="width: 110px; height: 50px; transition: transform 0.2s;" alt="Haskell"
                  onmouseover="this.style.transform='scale(1.2)'" 
                  onmouseout="this.style.transform='scale(1)'">
         </a>
