@@ -94,17 +94,17 @@
 <div style="margin-top:10px" align="center">
   <div>
     <a href="https://www.instagram.com/_penxa01/" target="_blank" title="Instagram">
-            <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" style="width: 100px; height: 50px; transition: transform 0.2s;" alt="Instagram"
+            <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" style="width: 110px; height: 50px; transition: transform 0.2s;" alt="Instagram"
                  onmouseover="this.style.transform='scale(1.2)'" 
                  onmouseout="this.style.transform='scale(1)'">
         </a>
         <a href="https://x.com/Penxa01" target="_blank" title="Twitter">
-            <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" style="width: 100px; height: 50px; transition: transform 0.2s;" alt="Twitter"
+            <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" style="width: 80px; height: 50px; transition: transform 0.2s;" alt="Twitter"
                  onmouseover="this.style.transform='scale(1.2)'" 
                  onmouseout="this.style.transform='scale(1)'">
         </a>
         <a href="https://www.linkedin.com/in/juan-pe%C3%B1a-b543771ba/" target="_blank" title="LinkedIn">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" style="width: 100px; height: 50px; transition: transform 0.2s;" alt="LinkedIn"
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" style="width: 110px; height: 50px; transition: transform 0.2s;" alt="LinkedIn"
                  onmouseover="this.style.transform='scale(1.2)'" 
                  onmouseout="this.style.transform='scale(1)'">
         </a>
