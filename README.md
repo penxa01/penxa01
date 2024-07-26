@@ -115,7 +115,7 @@
 
 <p align="center">
     <a href="mailto:pepino199582@gmail.com" title="Gmail">
-            <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" style="width: 80px; height: 50px; transition: transform 0.2s;" alt="Gmail"
+            <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" style="width: 90px; height: 50px; transition: transform 0.2s;" alt="Gmail"
                  onmouseover="this.style.transform='scale(1.2)'" 
                  onmouseout="this.style.transform='scale(1)'">
         </a>
