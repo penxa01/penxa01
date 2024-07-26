@@ -93,12 +93,21 @@
 
 <div style="margin-top:10px" align="center">
   <div>
-    <a  href="https://linkedin.com/in/example" target="_blank">
-      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
-    </a>
-    <a href="https://twitter.com/example" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
-    </a>
+    <a href="https://www.instagram.com/_penxa01/" target="_blank" title="Instagram">
+            <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" style="width: 50px; height: 50px; transition: transform 0.2s;" alt="Instagram"
+                 onmouseover="this.style.transform='scale(1.2)'" 
+                 onmouseout="this.style.transform='scale(1)'">
+        </a>
+        <a href="https://x.com/Penxa01" target="_blank" title="Twitter">
+            <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" style="width: 50px; height: 50px; transition: transform 0.2s;" alt="Twitter"
+                 onmouseover="this.style.transform='scale(1.2)'" 
+                 onmouseout="this.style.transform='scale(1)'">
+        </a>
+        <a href="https://www.linkedin.com/in/juan-pe%C3%B1a-b543771ba/" target="_blank" title="LinkedIn">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" style="width: 50px; height: 50px; transition: transform 0.2s;" alt="LinkedIn"
+                 onmouseover="this.style.transform='scale(1.2)'" 
+                 onmouseout="this.style.transform='scale(1)'">
+        </a>
   </div>
 </div>
 
